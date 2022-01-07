@@ -1,0 +1,8 @@
+com\bugtracking\admin\AdminmoduleApplication.class
+com\bugtracking\admin\controller\AdminController.class
+com\bugtracking\admin\responses\Responseinfo.class
+com\bugtracking\admin\entities\Bug.class
+com\bugtracking\admin\entities\Employee.class
+com\bugtracking\admin\entities\Admin.class
+com\bugtracking\admin\entities\Project.class
+com\bugtracking\admin\globalexceptionhandler\GlobalExceptionHandler.class

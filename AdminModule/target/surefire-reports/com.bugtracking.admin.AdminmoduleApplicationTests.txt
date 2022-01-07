@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.bugtracking.admin.AdminmoduleApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.903 s - in com.bugtracking.admin.AdminmoduleApplicationTests
