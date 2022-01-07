@@ -1,0 +1,3 @@
+com\bugtracking\employee\serviceTest\EmployeeServiceImplTest.class
+com\bugtracking\employee\controllerTest\EmployeeControllerTest.class
+com\bugtracking\employee\EmployeemoduleApplicationTests.class
